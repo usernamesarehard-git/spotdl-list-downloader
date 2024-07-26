@@ -1,0 +1,6 @@
+this needs to have the spotify links in each row like this. also needs to be in the same directory as spotdl_G
+
+
+link1
+link2
+link3
